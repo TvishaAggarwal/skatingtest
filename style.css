@@ -1,0 +1,27 @@
+body{
+background-color: blueviolet;
+text-align: center;
+color:darkblue;
+}
+h1{
+font-size:80px;
+font-family: cursive;
+font-variant: small-caps;
+}
+h2{
+font-family: cursive;
+font-size:40px;    
+}
+h3{
+font-family: cursive;
+font-size:30px;
+}
+.links{
+float:left;
+padding-top:5px;
+padding-bottom:5px;
+padding-right:9px;
+padding-left:9px;
+font-family:cursive;
+font-size:15px;    
+}
